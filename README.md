@@ -1,4 +1,4 @@
-![logo](https://github.com/shrtRoshan/shrtRoshan/blob/main/cover%20image.png)
+![logo](https://github.com/shrtRoshan/shrtRoshan/blob/main/cover-gif.gif)
 
 ###
 
